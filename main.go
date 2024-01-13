@@ -24,29 +24,32 @@ func createBopRecords(data [][]string) []BopRecord {
     // Convert CSV to array of BopRecords
     var bopRecords []BopRecord
 
-    for rows, line := range data {
-        if rows > 0 {
-            var bopRecord BopRecord
-            var carName string
-            var carYear string
+    if len(data) < 1 {
+        fmt.Println("Invalid BoP data file.")
+        os.Exit(1)
+    }
 
-            for lines, field := range line {
-                switch lines {
-                case 1:
-                    carName = field
-                case 2:
-                    carYear = field
-                case 3:
-                    bopRecord.Ballast, _ = strconv.Atoi(strings.Replace(field, " kg", "", -1))
-                case 5:
-                    bopRecord.Track = field
-                }
+    for _, line := range data {
+        var bopRecord BopRecord
+        var carName string
+        var carYear string
+
+        for lines, field := range line {
+            switch lines {
+            case 1:
+                carName = field
+            case 2:
+                carYear = field
+            case 3:
+                bopRecord.Ballast, _ = strconv.Atoi(strings.Replace(field, " kg", "", -1))
+            case 5:
+                bopRecord.Track = field
             }
-
-            bopRecord.CarModel = carModelFromName(carName, carYear)
-
-            bopRecords = append(bopRecords, bopRecord)
         }
+
+        bopRecord.CarModel = carModelFromName(carName, carYear)
+
+        bopRecords = append(bopRecords, bopRecord)
     }
 
     return bopRecords
