@@ -13,27 +13,27 @@
         {
             "track": "imola",
             "carModel": 20,
-            "ballastKg": -13
+            "ballastKg": -14
         },
         {
             "track": "imola",
             "carModel": 26,
-            "ballastKg": 0
+            "ballastKg": -1
         },
         {
             "track": "imola",
             "carModel": 32,
-            "ballastKg": -3
+            "ballastKg": 3
         },
         {
             "track": "imola",
             "carModel": 21,
-            "ballastKg": -12
+            "ballastKg": -13
         },
         {
             "track": "imola",
             "carModel": 33,
-            "ballastKg": -1
+            "ballastKg": -2
         },
         {
             "track": "imola",
@@ -43,12 +43,12 @@
         {
             "track": "imola",
             "carModel": 25,
-            "ballastKg": 16
+            "ballastKg": 15
         },
         {
             "track": "imola",
             "carModel": 34,
-            "ballastKg": 10
+            "ballastKg": 9
         },
         {
             "track": "imola",
@@ -58,7 +58,7 @@
         {
             "track": "monza",
             "carModel": 31,
-            "ballastKg": 12
+            "ballastKg": 10
         },
         {
             "track": "monza",
@@ -68,17 +68,17 @@
         {
             "track": "monza",
             "carModel": 20,
-            "ballastKg": 3
+            "ballastKg": 0
         },
         {
             "track": "monza",
             "carModel": 26,
-            "ballastKg": -2
+            "ballastKg": -4
         },
         {
             "track": "monza",
             "carModel": 32,
-            "ballastKg": 6
+            "ballastKg": 4
         },
         {
             "track": "monza",
@@ -88,27 +88,27 @@
         {
             "track": "monza",
             "carModel": 33,
-            "ballastKg": 15
+            "ballastKg": 13
         },
         {
             "track": "monza",
             "carModel": 35,
-            "ballastKg": 39
+            "ballastKg": 40
         },
         {
             "track": "monza",
             "carModel": 25,
-            "ballastKg": 14
+            "ballastKg": 12
         },
         {
             "track": "monza",
             "carModel": 34,
-            "ballastKg": -4
+            "ballastKg": -6
         },
         {
             "track": "monza",
             "carModel": 24,
-            "ballastKg": -36
+            "ballastKg": -38
         },
         {
             "track": "brands_hatch",
@@ -272,13 +272,13 @@
         },
         {
             "track": "paul_ricard",
-            "carModel": 24,
-            "ballastKg": -30
+            "carModel": 22,
+            "ballastKg": 2
         },
         {
             "track": "spa",
             "carModel": 31,
-            "ballastKg": 14
+            "ballastKg": 15
         },
         {
             "track": "spa",
@@ -288,17 +288,17 @@
         {
             "track": "spa",
             "carModel": 20,
-            "ballastKg": -19
+            "ballastKg": -16
         },
         {
             "track": "spa",
             "carModel": 26,
-            "ballastKg": 11
+            "ballastKg": 18
         },
         {
             "track": "spa",
             "carModel": 32,
-            "ballastKg": 12
+            "ballastKg": 14
         },
         {
             "track": "spa",
@@ -793,7 +793,7 @@
         {
             "track": "mount_panorama",
             "carModel": 31,
-            "ballastKg": 24
+            "ballastKg": 23
         },
         {
             "track": "mount_panorama",
@@ -803,17 +803,17 @@
         {
             "track": "mount_panorama",
             "carModel": 20,
-            "ballastKg": -3
+            "ballastKg": -4
         },
         {
             "track": "mount_panorama",
             "carModel": 26,
-            "ballastKg": -7
+            "ballastKg": -3
         },
         {
             "track": "mount_panorama",
             "carModel": 32,
-            "ballastKg": -14
+            "ballastKg": -15
         },
         {
             "track": "mount_panorama",
@@ -823,17 +823,17 @@
         {
             "track": "mount_panorama",
             "carModel": 33,
-            "ballastKg": 9
+            "ballastKg": 8
         },
         {
             "track": "mount_panorama",
             "carModel": 35,
-            "ballastKg": 27
+            "ballastKg": 26
         },
         {
             "track": "mount_panorama",
             "carModel": 25,
-            "ballastKg": -3
+            "ballastKg": -4
         },
         {
             "track": "mount_panorama",
@@ -843,7 +843,7 @@
         {
             "track": "mount_panorama",
             "carModel": 22,
-            "ballastKg": 2
+            "ballastKg": 4
         },
         {
             "track": "mount_panorama",
@@ -988,7 +988,7 @@
         {
             "track": "silverstone",
             "carModel": 32,
-            "ballastKg": 9
+            "ballastKg": 10
         },
         {
             "track": "silverstone",
@@ -1023,7 +1023,7 @@
         {
             "track": "snetterton",
             "carModel": 31,
-            "ballastKg": 25
+            "ballastKg": 24
         },
         {
             "track": "snetterton",
@@ -1033,17 +1033,17 @@
         {
             "track": "snetterton",
             "carModel": 20,
-            "ballastKg": -16
+            "ballastKg": -17
         },
         {
             "track": "snetterton",
             "carModel": 26,
-            "ballastKg": -5
+            "ballastKg": 2
         },
         {
             "track": "snetterton",
             "carModel": 32,
-            "ballastKg": 12
+            "ballastKg": 11
         },
         {
             "track": "snetterton",
@@ -1053,27 +1053,27 @@
         {
             "track": "snetterton",
             "carModel": 33,
-            "ballastKg": 30
+            "ballastKg": 29
         },
         {
             "track": "snetterton",
             "carModel": 35,
-            "ballastKg": 0
+            "ballastKg": -1
         },
         {
             "track": "snetterton",
             "carModel": 25,
-            "ballastKg": 10
+            "ballastKg": 9
         },
         {
             "track": "snetterton",
             "carModel": 34,
-            "ballastKg": -2
+            "ballastKg": -3
         },
         {
             "track": "snetterton",
             "carModel": 24,
-            "ballastKg": -38
+            "ballastKg": -39
         },
         {
             "track": "suzuka",

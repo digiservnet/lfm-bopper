@@ -1,0 +1,493 @@
+GT3,Audi R8 LMS GT3 evo II,2022,17 kg,0 kg,imola
+GT3,Bentley Continental,2018,-40 kg,0 kg,imola
+GT3,AMR V8 Vantage,2019,-14 kg,-1 kg,imola
+GT3,BMW M4 GT3,2021,-1 kg,-1 kg,imola
+GT3,Ferrari 296 GT3,2023,3 kg,6 kg,imola
+GT3,Honda NSX GT3 Evo,2019,-13 kg,-1 kg,imola
+GT3,Lamborghini Huracan GT3 EVO 2,2023,-2 kg,-1 kg,imola
+GT3,McLaren 720S GT3 Evo,2023,29 kg,0 kg,imola
+GT3,Mercedes-AMG GT3,2020,15 kg,-1 kg,imola
+GT3,Porsche 992 GT3 R,2023,9 kg,-1 kg,imola
+GT3,Ferrari 488 GT3 Evo,2020,-40 kg,0 kg,imola
+GT3,Audi R8 LMS GT3 evo II,2022,10 kg,-2 kg,monza
+GT3,Bentley Continental,2018,-40 kg,0 kg,monza
+GT3,AMR V8 Vantage,2019,0 kg,-3 kg,monza
+GT3,BMW M4 GT3,2021,-4 kg,-2 kg,monza
+GT3,Ferrari 296 GT3,2023,4 kg,-2 kg,monza
+GT3,Honda NSX GT3 Evo,2019,-40 kg,0 kg,monza
+GT3,Lamborghini Huracan GT3 EVO 2,2023,13 kg,-2 kg,monza
+GT3,McLaren 720S GT3 Evo,2023,40 kg,1 kg,monza
+GT3,Mercedes-AMG GT3,2020,12 kg,-2 kg,monza
+GT3,Porsche 992 GT3 R,2023,-6 kg,-2 kg,monza
+GT3,Ferrari 488 GT3 Evo,2020,-38 kg,-2 kg,monza
+GT3,Audi R8 LMS GT3 evo II,2022,8 kg,0 kg,brands_hatch
+GT3,Bentley Continental,2018,-38 kg,2 kg,brands_hatch
+GT3,AMR V8 Vantage,2019,-32 kg,0 kg,brands_hatch
+GT3,BMW M4 GT3,2021,-8 kg,0 kg,brands_hatch
+GT3,Ferrari 296 GT3,2023,3 kg,0 kg,brands_hatch
+GT3,Honda NSX GT3 Evo,2019,-25 kg,0 kg,brands_hatch
+GT3,Lamborghini Huracan GT3 EVO 2,2023,40 kg,0 kg,brands_hatch
+GT3,McLaren 720S GT3 Evo,2023,29 kg,0 kg,brands_hatch
+GT3,Mercedes-AMG GT3,2020,-17 kg,0 kg,brands_hatch
+GT3,Porsche 992 GT3 R,2023,-21 kg,0 kg,brands_hatch
+GT3,Ferrari 488 GT3 Evo,2020,-15 kg,0 kg,brands_hatch
+GT3,Audi R8 LMS GT3 evo II,2022,10 kg,-3 kg,barcelona
+GT3,Bentley Continental,2018,-40 kg,0 kg,barcelona
+GT3,AMR V8 Vantage,2019,-14 kg,-2 kg,barcelona
+GT3,BMW M4 GT3,2021,-7 kg,-3 kg,barcelona
+GT3,Ferrari 296 GT3,2023,32 kg,-3 kg,barcelona
+GT3,Honda NSX GT3 Evo,2019,0 kg,3 kg,barcelona
+GT3,Lamborghini Huracan GT3 EVO 2,2023,32 kg,9 kg,barcelona
+GT3,McLaren 720S GT3 Evo,2023,9 kg,-2 kg,barcelona
+GT3,Mercedes-AMG GT3,2020,-8 kg,-3 kg,barcelona
+GT3,Porsche 992 GT3 R,2023,-1 kg,-2 kg,barcelona
+GT3,Ferrari 488 GT3 Evo,2020,-21 kg,-2 kg,barcelona
+GT3,Audi R8 LMS GT3 evo II,2022,28 kg,0 kg,paul_ricard
+GT3,Bentley Continental,2018,-40 kg,0 kg,paul_ricard
+GT3,AMR V8 Vantage,2019,-4 kg,0 kg,paul_ricard
+GT3,BMW M4 GT3,2021,11 kg,0 kg,paul_ricard
+GT3,Ferrari 296 GT3,2023,-1 kg,0 kg,paul_ricard
+GT3,Honda NSX GT3 Evo,2019,-31 kg,0 kg,paul_ricard
+GT3,Lamborghini Huracan GT3 EVO 2,2023,19 kg,0 kg,paul_ricard
+GT3,McLaren 720S GT3 Evo,2023,19 kg,0 kg,paul_ricard
+GT3,Mercedes-AMG GT3,2020,7 kg,0 kg,paul_ricard
+GT3,Porsche 992 GT3 R,2023,7 kg,0 kg,paul_ricard
+GT3,McLaren 720S GT3,2019,2 kg,2 kg,paul_ricard
+GT3,Audi R8 LMS GT3 evo II,2022,15 kg,1 kg,spa
+GT3,Bentley Continental,2018,-40 kg,0 kg,spa
+GT3,AMR V8 Vantage,2019,-16 kg,3 kg,spa
+GT3,BMW M4 GT3,2021,18 kg,7 kg,spa
+GT3,Ferrari 296 GT3,2023,14 kg,2 kg,spa
+GT3,Honda NSX GT3 Evo,2019,-24 kg,0 kg,spa
+GT3,Lamborghini Huracan GT3 EVO 2,2023,5 kg,0 kg,spa
+GT3,McLaren 720S GT3 Evo,2023,40 kg,0 kg,spa
+GT3,Mercedes-AMG GT3,2020,-1 kg,0 kg,spa
+GT3,Porsche 992 GT3 R,2023,5 kg,0 kg,spa
+GT3,McLaren 720S GT3,2019,14 kg,0 kg,spa
+GT3,Ferrari 488 GT3 Evo,2020,-22 kg,0 kg,spa
+GT3,Audi R8 LMS GT3 evo II,2022,3 kg,-2 kg,cota
+GT3,Bentley Continental,2018,-40 kg,0 kg,cota
+GT3,AMR V8 Vantage,2019,-20 kg,-2 kg,cota
+GT3,BMW M4 GT3,2021,34 kg,15 kg,cota
+GT3,Ferrari 296 GT3,2023,5 kg,-1 kg,cota
+GT3,Honda NSX GT3 Evo,2019,-3 kg,-2 kg,cota
+GT3,Lamborghini Huracan GT3 EVO 2,2023,-5 kg,-2 kg,cota
+GT3,McLaren 720S GT3 Evo,2023,4 kg,-1 kg,cota
+GT3,Mercedes-AMG GT3,2020,11 kg,-2 kg,cota
+GT3,Porsche 992 GT3 R,2023,18 kg,0 kg,cota
+GT3,Ferrari 488 GT3 Evo,2020,-28 kg,-2 kg,cota
+GT3,Audi R8 LMS GT3 evo II,2022,14 kg,16 kg,valencia
+GT3,Bentley Continental,2018,-14 kg,-3 kg,valencia
+GT3,AMR V8 Vantage,2019,-17 kg,-3 kg,valencia
+GT3,BMW M4 GT3,2021,-7 kg,3 kg,valencia
+GT3,Ferrari 296 GT3,2023,11 kg,-3 kg,valencia
+GT3,Honda NSX GT3 Evo,2019,-13 kg,-3 kg,valencia
+GT3,Lamborghini Huracan GT3 EVO 2,2023,19 kg,-3 kg,valencia
+GT3,McLaren 720S GT3 Evo,2023,9 kg,-3 kg,valencia
+GT3,Mercedes-AMG GT3,2020,-3 kg,-3 kg,valencia
+GT3,Porsche 992 GT3 R,2023,1 kg,2 kg,valencia
+GT3,Ferrari 488 GT3 Evo,2020,-26 kg,-3 kg,valencia
+GT3,Audi R8 LMS GT3 evo II,2022,35 kg,0 kg,donington
+GT3,Bentley Continental,2018,-40 kg,0 kg,donington
+GT3,AMR V8 Vantage,2019,-4 kg,7 kg,donington
+GT3,BMW M4 GT3,2021,40 kg,0 kg,donington
+GT3,Ferrari 296 GT3,2023,-11 kg,0 kg,donington
+GT3,Honda NSX GT3 Evo,2019,-12 kg,0 kg,donington
+GT3,Lamborghini Huracan GT3 EVO 2,2023,14 kg,0 kg,donington
+GT3,McLaren 720S GT3 Evo,2023,-9 kg,0 kg,donington
+GT3,Mercedes-AMG GT3,2020,-16 kg,0 kg,donington
+GT3,Porsche 992 GT3 R,2023,1 kg,0 kg,donington
+GT3,Ferrari 488 GT3 Evo,2020,-40 kg,0 kg,donington
+GT3,Audi R8 LMS GT3 evo II,2022,17 kg,-1 kg,hungaroring
+GT3,Bentley Continental,2018,-40 kg,0 kg,hungaroring
+GT3,AMR V8 Vantage,2019,-25 kg,-2 kg,hungaroring
+GT3,BMW M4 GT3,2021,7 kg,-2 kg,hungaroring
+GT3,Ferrari 296 GT3,2023,18 kg,-1 kg,hungaroring
+GT3,Honda NSX GT3 Evo,2019,-13 kg,4 kg,hungaroring
+GT3,Lamborghini Huracan GT3 EVO 2,2023,16 kg,-2 kg,hungaroring
+GT3,McLaren 720S GT3 Evo,2023,28 kg,8 kg,hungaroring
+GT3,Mercedes-AMG GT3,2020,-4 kg,-1 kg,hungaroring
+GT3,Porsche 992 GT3 R,2023,10 kg,-2 kg,hungaroring
+GT3,Ferrari 488 GT3 Evo,2020,-21 kg,-1 kg,hungaroring
+GT3,Audi R8 LMS GT3 evo II,2022,29 kg,0 kg,indianapolis
+GT3,Bentley Continental,2018,-16 kg,0 kg,indianapolis
+GT3,AMR V8 Vantage,2019,-10 kg,0 kg,indianapolis
+GT3,BMW M4 GT3,2021,0 kg,0 kg,indianapolis
+GT3,Ferrari 296 GT3,2023,-27 kg,0 kg,indianapolis
+GT3,Honda NSX GT3 Evo,2019,-18 kg,0 kg,indianapolis
+GT3,Lamborghini Huracan GT3 EVO 2,2023,21 kg,0 kg,indianapolis
+GT3,McLaren 720S GT3 Evo,2023,9 kg,0 kg,indianapolis
+GT3,Mercedes-AMG GT3,2020,9 kg,0 kg,indianapolis
+GT3,Porsche 992 GT3 R,2023,4 kg,0 kg,indianapolis
+GT3,Ferrari 488 GT3 Evo,2020,13 kg,0 kg,indianapolis
+GT3,McLaren 720S GT3,2019,12 kg,12 kg,indianapolis
+GT3,Audi R8 LMS GT3 evo II,2022,28 kg,0 kg,kyalami
+GT3,Bentley Continental,2018,-26 kg,-1 kg,kyalami
+GT3,AMR V8 Vantage,2019,8 kg,-1 kg,kyalami
+GT3,BMW M4 GT3,2021,11 kg,0 kg,kyalami
+GT3,Ferrari 296 GT3,2023,-4 kg,3 kg,kyalami
+GT3,Honda NSX GT3 Evo,2019,-9 kg,-1 kg,kyalami
+GT3,Lamborghini Huracan GT3 EVO 2,2023,12 kg,0 kg,kyalami
+GT3,McLaren 720S GT3 Evo,2023,-19 kg,0 kg,kyalami
+GT3,Mercedes-AMG GT3,2020,8 kg,-1 kg,kyalami
+GT3,Porsche 992 GT3 R,2023,-11 kg,-1 kg,kyalami
+GT3,Ferrari 488 GT3 Evo,2020,-23 kg,0 kg,kyalami
+GT3,Audi R8 LMS GT3 evo II,2022,8 kg,0 kg,laguna_seca
+GT3,Bentley Continental,2018,-40 kg,0 kg,laguna_seca
+GT3,AMR V8 Vantage,2019,-10 kg,18 kg,laguna_seca
+GT3,BMW M4 GT3,2021,-16 kg,0 kg,laguna_seca
+GT3,Ferrari 296 GT3,2023,8 kg,0 kg,laguna_seca
+GT3,Honda NSX GT3 Evo,2019,25 kg,17 kg,laguna_seca
+GT3,Lamborghini Huracan GT3 EVO 2,2023,40 kg,0 kg,laguna_seca
+GT3,McLaren 720S GT3 Evo,2023,1 kg,0 kg,laguna_seca
+GT3,Mercedes-AMG GT3,2020,-13 kg,0 kg,laguna_seca
+GT3,Porsche 992 GT3 R,2023,-1 kg,0 kg,laguna_seca
+GT3,Porsche 991II GT3 R,2019,30 kg,0 kg,laguna_seca
+GT3,Ferrari 488 GT3 Evo,2020,-21 kg,0 kg,laguna_seca
+GT3,Audi R8 LMS GT3 evo II,2022,9 kg,0 kg,misano
+GT3,Bentley Continental,2018,-40 kg,0 kg,misano
+GT3,AMR V8 Vantage,2019,-20 kg,0 kg,misano
+GT3,BMW M4 GT3,2021,-14 kg,0 kg,misano
+GT3,Ferrari 296 GT3,2023,22 kg,0 kg,misano
+GT3,Honda NSX GT3 Evo,2019,-14 kg,0 kg,misano
+GT3,Lamborghini Huracan GT3 EVO 2,2023,31 kg,0 kg,misano
+GT3,McLaren 720S GT3 Evo,2023,12 kg,0 kg,misano
+GT3,Mercedes-AMG GT3,2020,22 kg,0 kg,misano
+GT3,Porsche 992 GT3 R,2023,-1 kg,0 kg,misano
+GT3,McLaren 720S GT3,2019,5 kg,5 kg,misano
+GT3,Ferrari 488 GT3 Evo,2020,-19 kg,0 kg,misano
+GT3,Audi R8 LMS GT3 evo II,2022,23 kg,-1 kg,mount_panorama
+GT3,Bentley Continental,2018,-14 kg,0 kg,mount_panorama
+GT3,AMR V8 Vantage,2019,-4 kg,-1 kg,mount_panorama
+GT3,BMW M4 GT3,2021,-3 kg,4 kg,mount_panorama
+GT3,Ferrari 296 GT3,2023,-15 kg,-1 kg,mount_panorama
+GT3,Honda NSX GT3 Evo,2019,-6 kg,0 kg,mount_panorama
+GT3,Lamborghini Huracan GT3 EVO 2,2023,8 kg,-1 kg,mount_panorama
+GT3,McLaren 720S GT3 Evo,2023,26 kg,-1 kg,mount_panorama
+GT3,Mercedes-AMG GT3,2020,-4 kg,-1 kg,mount_panorama
+GT3,Porsche 992 GT3 R,2023,-13 kg,0 kg,mount_panorama
+GT3,McLaren 720S GT3,2019,4 kg,2 kg,mount_panorama
+GT3,Ferrari 488 GT3 Evo,2020,-40 kg,0 kg,mount_panorama
+GT3,Audi R8 LMS GT3 evo II,2022,20 kg,-4 kg,nurburgring
+GT3,Bentley Continental,2018,-40 kg,0 kg,nurburgring
+GT3,AMR V8 Vantage,2019,-27 kg,-3 kg,nurburgring
+GT3,BMW M4 GT3,2021,20 kg,-4 kg,nurburgring
+GT3,Ferrari 296 GT3,2023,15 kg,-4 kg,nurburgring
+GT3,Honda NSX GT3 Evo,2019,-10 kg,-4 kg,nurburgring
+GT3,Lamborghini Huracan GT3 EVO 2,2023,25 kg,-3 kg,nurburgring
+GT3,McLaren 720S GT3 Evo,2023,7 kg,-4 kg,nurburgring
+GT3,Mercedes-AMG GT3,2020,1 kg,-3 kg,nurburgring
+GT3,Porsche 992 GT3 R,2023,6 kg,-4 kg,nurburgring
+GT3,Ferrari 488 GT3 Evo,2020,-40 kg,0 kg,nurburgring
+GT3,Audi R8 LMS GT3 evo II,2022,11 kg,0 kg,oulton_park
+GT3,Bentley Continental,2018,-40 kg,0 kg,oulton_park
+GT3,AMR V8 Vantage,2019,-1 kg,0 kg,oulton_park
+GT3,BMW M4 GT3,2021,3 kg,0 kg,oulton_park
+GT3,Ferrari 296 GT3,2023,-13 kg,0 kg,oulton_park
+GT3,Honda NSX GT3 Evo,2019,10 kg,0 kg,oulton_park
+GT3,Lamborghini Huracan GT3 EVO 2,2023,29 kg,0 kg,oulton_park
+GT3,McLaren 720S GT3 Evo,2023,14 kg,0 kg,oulton_park
+GT3,Mercedes-AMG GT3,2020,0 kg,0 kg,oulton_park
+GT3,Porsche 992 GT3 R,2023,-4 kg,0 kg,oulton_park
+GT3,McLaren 720S GT3,2019,7 kg,7 kg,oulton_park
+GT3,Ferrari 488 GT3 Evo,2020,-40 kg,0 kg,oulton_park
+GT3,Audi R8 LMS GT3 evo II,2022,40 kg,0 kg,silverstone
+GT3,Bentley Continental,2018,-40 kg,0 kg,silverstone
+GT3,AMR V8 Vantage,2019,-13 kg,0 kg,silverstone
+GT3,BMW M4 GT3,2021,-3 kg,0 kg,silverstone
+GT3,Ferrari 296 GT3,2023,10 kg,1 kg,silverstone
+GT3,Honda NSX GT3 Evo,2019,-16 kg,0 kg,silverstone
+GT3,Lamborghini Huracan GT3 EVO 2,2023,12 kg,0 kg,silverstone
+GT3,McLaren 720S GT3 Evo,2023,18 kg,0 kg,silverstone
+GT3,Mercedes-AMG GT3,2020,-16 kg,0 kg,silverstone
+GT3,Porsche 992 GT3 R,2023,6 kg,0 kg,silverstone
+GT3,Ferrari 488 GT3 Evo,2020,-36 kg,0 kg,silverstone
+GT3,Audi R8 LMS GT3 evo II,2022,24 kg,-1 kg,snetterton
+GT3,Bentley Continental,2018,-40 kg,0 kg,snetterton
+GT3,AMR V8 Vantage,2019,-17 kg,-1 kg,snetterton
+GT3,BMW M4 GT3,2021,2 kg,7 kg,snetterton
+GT3,Ferrari 296 GT3,2023,11 kg,-1 kg,snetterton
+GT3,Honda NSX GT3 Evo,2019,1 kg,0 kg,snetterton
+GT3,Lamborghini Huracan GT3 EVO 2,2023,29 kg,-1 kg,snetterton
+GT3,McLaren 720S GT3 Evo,2023,-1 kg,-1 kg,snetterton
+GT3,Mercedes-AMG GT3,2020,9 kg,-1 kg,snetterton
+GT3,Porsche 992 GT3 R,2023,-3 kg,-1 kg,snetterton
+GT3,Ferrari 488 GT3 Evo,2020,-39 kg,-1 kg,snetterton
+GT3,Audi R8 LMS GT3 evo II,2022,8 kg,0 kg,suzuka
+GT3,Bentley Continental,2018,-40 kg,0 kg,suzuka
+GT3,AMR V8 Vantage,2019,-20 kg,0 kg,suzuka
+GT3,BMW M4 GT3,2021,-1 kg,5 kg,suzuka
+GT3,Ferrari 296 GT3,2023,20 kg,0 kg,suzuka
+GT3,Honda NSX GT3 Evo,2019,-26 kg,0 kg,suzuka
+GT3,Lamborghini Huracan GT3 EVO 2,2023,40 kg,0 kg,suzuka
+GT3,McLaren 720S GT3 Evo,2023,17 kg,0 kg,suzuka
+GT3,Mercedes-AMG GT3,2020,-5 kg,0 kg,suzuka
+GT3,Porsche 992 GT3 R,2023,-2 kg,0 kg,suzuka
+GT3,Ferrari 488 GT3 Evo,2020,-40 kg,0 kg,suzuka
+GT3,Audi R8 LMS GT3 evo II,2022,28 kg,-1 kg,watkins_glen
+GT3,Bentley Continental,2018,-40 kg,0 kg,watkins_glen
+GT3,AMR V8 Vantage,2019,5 kg,0 kg,watkins_glen
+GT3,BMW M4 GT3,2021,3 kg,0 kg,watkins_glen
+GT3,Ferrari 296 GT3,2023,4 kg,0 kg,watkins_glen
+GT3,Honda NSX GT3 Evo,2019,-16 kg,0 kg,watkins_glen
+GT3,Lamborghini Huracan GT3 EVO 2,2023,22 kg,5 kg,watkins_glen
+GT3,McLaren 720S GT3 Evo,2023,8 kg,-1 kg,watkins_glen
+GT3,Mercedes-AMG GT3,2020,8 kg,-1 kg,watkins_glen
+GT3,Porsche 992 GT3 R,2023,-4 kg,0 kg,watkins_glen
+GT3,McLaren 720S GT3,2019,10 kg,0 kg,watkins_glen
+GT3,Ferrari 488 GT3 Evo,2020,-20 kg,-1 kg,watkins_glen
+GT3,Audi R8 LMS GT3 evo II,2022,9 kg,-2 kg,zandvoort
+GT3,Bentley Continental,2018,-40 kg,0 kg,zandvoort
+GT3,AMR V8 Vantage,2019,-8 kg,-2 kg,zandvoort
+GT3,BMW M4 GT3,2021,-16 kg,-2 kg,zandvoort
+GT3,Ferrari 296 GT3,2023,21 kg,-2 kg,zandvoort
+GT3,Honda NSX GT3 Evo,2019,-14 kg,-2 kg,zandvoort
+GT3,Lamborghini Huracan GT3 EVO 2,2023,29 kg,-2 kg,zandvoort
+GT3,McLaren 720S GT3 Evo,2023,20 kg,-2 kg,zandvoort
+GT3,Mercedes-AMG GT3,2020,13 kg,-2 kg,zandvoort
+GT3,Porsche 992 GT3 R,2023,-4 kg,-2 kg,zandvoort
+GT3,Porsche 991II GT3 R,2019,2 kg,-2 kg,zandvoort
+GT3,Ferrari 488 GT3 Evo,2020,-24 kg,-2 kg,zandvoort
+GT3,Audi R8 LMS GT3 evo II,2022,2 kg,-1 kg,zolder
+GT3,Bentley Continental,2018,-30 kg,0 kg,zolder
+GT3,AMR V8 Vantage,2019,-18 kg,0 kg,zolder
+GT3,BMW M4 GT3,2021,4 kg,3 kg,zolder
+GT3,Ferrari 296 GT3,2023,-1 kg,-1 kg,zolder
+GT3,Honda NSX GT3 Evo,2019,-9 kg,0 kg,zolder
+GT3,Lamborghini Huracan GT3 EVO 2,2023,14 kg,0 kg,zolder
+GT3,McLaren 720S GT3 Evo,2023,22 kg,0 kg,zolder
+GT3,Mercedes-AMG GT3,2020,25 kg,0 kg,zolder
+GT3,Porsche 992 GT3 R,2023,-8 kg,0 kg,zolder
+GT3,Ferrari 488 GT3 Evo,2020,-18 kg,5 kg,zolder
+GT4,Alpine A110 GT4,2018,36 kg,0 kg,imola
+GT4,Aston Martin Vantage GT4,2018,-14 kg,0 kg,imola
+GT4,Audi R8 LMS GT4,2018,23 kg,0 kg,imola
+GT4,BMW M4 GT4,2018,-12 kg,0 kg,imola
+GT4,Chevrolet Camaro GT4,2017,-27 kg,0 kg,imola
+GT4,Ginetta G55 GT4,2012,-5 kg,0 kg,imola
+GT4,KTM X-Bow GT4,2016,-18 kg,0 kg,imola
+GT4,McLaren 570S GT4,2016,23 kg,0 kg,imola
+GT4,Mercedes AMG GT4,2016,-9 kg,0 kg,imola
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,4 kg,0 kg,imola
+GT4,Alpine A110 GT4,2018,34 kg,0 kg,monza
+GT4,Aston Martin Vantage GT4,2018,-18 kg,0 kg,monza
+GT4,Audi R8 LMS GT4,2018,0 kg,0 kg,monza
+GT4,BMW M4 GT4,2018,-30 kg,0 kg,monza
+GT4,Chevrolet Camaro GT4,2017,-35 kg,0 kg,monza
+GT4,Ginetta G55 GT4,2012,-26 kg,0 kg,monza
+GT4,KTM X-Bow GT4,2016,34 kg,0 kg,monza
+GT4,McLaren 570S GT4,2016,0 kg,0 kg,monza
+GT4,Mercedes AMG GT4,2016,34 kg,0 kg,monza
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,8 kg,0 kg,monza
+GT4,Alpine A110 GT4,2018,30 kg,0 kg,brands_hatch
+GT4,Aston Martin Vantage GT4,2018,3 kg,0 kg,brands_hatch
+GT4,Audi R8 LMS GT4,2018,-8 kg,0 kg,brands_hatch
+GT4,BMW M4 GT4,2018,-30 kg,0 kg,brands_hatch
+GT4,Chevrolet Camaro GT4,2017,-30 kg,0 kg,brands_hatch
+GT4,Ginetta G55 GT4,2012,-3 kg,0 kg,brands_hatch
+GT4,KTM X-Bow GT4,2016,8 kg,0 kg,brands_hatch
+GT4,McLaren 570S GT4,2016,8 kg,0 kg,brands_hatch
+GT4,Mercedes AMG GT4,2016,3 kg,0 kg,brands_hatch
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,19 kg,0 kg,brands_hatch
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,barcelona
+GT4,Aston Martin Vantage GT4,2018,-22 kg,0 kg,barcelona
+GT4,Audi R8 LMS GT4,2018,-9 kg,0 kg,barcelona
+GT4,BMW M4 GT4,2018,-35 kg,0 kg,barcelona
+GT4,Chevrolet Camaro GT4,2017,-17 kg,0 kg,barcelona
+GT4,Ginetta G55 GT4,2012,0 kg,0 kg,barcelona
+GT4,KTM X-Bow GT4,2016,-9 kg,0 kg,barcelona
+GT4,McLaren 570S GT4,2016,9 kg,0 kg,barcelona
+GT4,Mercedes AMG GT4,2016,14 kg,0 kg,barcelona
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,18 kg,0 kg,barcelona
+GT4,Alpine A110 GT4,2018,26 kg,0 kg,paul_ricard
+GT4,Aston Martin Vantage GT4,2018,-14 kg,0 kg,paul_ricard
+GT4,Audi R8 LMS GT4,2018,2 kg,0 kg,paul_ricard
+GT4,BMW M4 GT4,2018,-23 kg,0 kg,paul_ricard
+GT4,Chevrolet Camaro GT4,2017,-19 kg,0 kg,paul_ricard
+GT4,Ginetta G55 GT4,2012,-23 kg,0 kg,paul_ricard
+GT4,KTM X-Bow GT4,2016,-2 kg,0 kg,paul_ricard
+GT4,McLaren 570S GT4,2016,34 kg,0 kg,paul_ricard
+GT4,Mercedes AMG GT4,2016,2 kg,0 kg,paul_ricard
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,18 kg,0 kg,paul_ricard
+GT4,Alpine A110 GT4,2018,34 kg,0 kg,spa
+GT4,Aston Martin Vantage GT4,2018,-21 kg,0 kg,spa
+GT4,Audi R8 LMS GT4,2018,5 kg,0 kg,spa
+GT4,BMW M4 GT4,2018,-14 kg,0 kg,spa
+GT4,Chevrolet Camaro GT4,2017,-38 kg,0 kg,spa
+GT4,Ginetta G55 GT4,2012,29 kg,0 kg,spa
+GT4,KTM X-Bow GT4,2016,-28 kg,0 kg,spa
+GT4,McLaren 570S GT4,2016,19 kg,0 kg,spa
+GT4,Mercedes AMG GT4,2016,2 kg,0 kg,spa
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,12 kg,0 kg,spa
+GT4,Maserati MC GT4,2016,16 kg,0 kg,spa
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,cota
+GT4,Aston Martin Vantage GT4,2018,-15 kg,0 kg,cota
+GT4,Audi R8 LMS GT4,2018,-11 kg,0 kg,cota
+GT4,BMW M4 GT4,2018,-37 kg,0 kg,cota
+GT4,Chevrolet Camaro GT4,2017,-40 kg,0 kg,cota
+GT4,Ginetta G55 GT4,2012,-11 kg,0 kg,cota
+GT4,KTM X-Bow GT4,2016,-11 kg,0 kg,cota
+GT4,McLaren 570S GT4,2016,-22 kg,0 kg,cota
+GT4,Mercedes AMG GT4,2016,-19 kg,0 kg,cota
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,18 kg,0 kg,cota
+GT4,Alpine A110 GT4,2018,30 kg,0 kg,valencia
+GT4,Aston Martin Vantage GT4,2018,-1 kg,0 kg,valencia
+GT4,Audi R8 LMS GT4,2018,-1 kg,0 kg,valencia
+GT4,BMW M4 GT4,2018,-16 kg,0 kg,valencia
+GT4,Chevrolet Camaro GT4,2017,-26 kg,0 kg,valencia
+GT4,Ginetta G55 GT4,2012,5 kg,0 kg,valencia
+GT4,KTM X-Bow GT4,2016,15 kg,0 kg,valencia
+GT4,McLaren 570S GT4,2016,-6 kg,0 kg,valencia
+GT4,Mercedes AMG GT4,2016,5 kg,0 kg,valencia
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,-6 kg,0 kg,valencia
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,donington
+GT4,Aston Martin Vantage GT4,2018,-34 kg,0 kg,donington
+GT4,Audi R8 LMS GT4,2018,-29 kg,0 kg,donington
+GT4,BMW M4 GT4,2018,-13 kg,0 kg,donington
+GT4,Chevrolet Camaro GT4,2017,-29 kg,0 kg,donington
+GT4,Ginetta G55 GT4,2012,8 kg,0 kg,donington
+GT4,KTM X-Bow GT4,2016,-39 kg,0 kg,donington
+GT4,McLaren 570S GT4,2016,-7 kg,0 kg,donington
+GT4,Mercedes AMG GT4,2016,-2 kg,0 kg,donington
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,19 kg,0 kg,donington
+GT4,Alpine A110 GT4,2018,32 kg,0 kg,hungaroring
+GT4,Aston Martin Vantage GT4,2018,-4 kg,0 kg,hungaroring
+GT4,Audi R8 LMS GT4,2018,-13 kg,0 kg,hungaroring
+GT4,BMW M4 GT4,2018,-22 kg,0 kg,hungaroring
+GT4,Chevrolet Camaro GT4,2017,-31 kg,0 kg,hungaroring
+GT4,Ginetta G55 GT4,2012,0 kg,0 kg,hungaroring
+GT4,KTM X-Bow GT4,2016,23 kg,0 kg,hungaroring
+GT4,McLaren 570S GT4,2016,5 kg,0 kg,hungaroring
+GT4,Mercedes AMG GT4,2016,9 kg,0 kg,hungaroring
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,0 kg,0 kg,hungaroring
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,indianapolis
+GT4,Aston Martin Vantage GT4,2018,-23 kg,0 kg,indianapolis
+GT4,Audi R8 LMS GT4,2018,-13 kg,0 kg,indianapolis
+GT4,BMW M4 GT4,2018,-23 kg,0 kg,indianapolis
+GT4,Chevrolet Camaro GT4,2017,-32 kg,0 kg,indianapolis
+GT4,Ginetta G55 GT4,2012,6 kg,0 kg,indianapolis
+GT4,KTM X-Bow GT4,2016,-18 kg,0 kg,indianapolis
+GT4,McLaren 570S GT4,2016,-8 kg,0 kg,indianapolis
+GT4,Mercedes AMG GT4,2016,-3 kg,0 kg,indianapolis
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,-3 kg,0 kg,indianapolis
+GT4,Alpine A110 GT4,2018,35 kg,0 kg,kyalami
+GT4,Aston Martin Vantage GT4,2018,-6 kg,0 kg,kyalami
+GT4,Audi R8 LMS GT4,2018,-10 kg,0 kg,kyalami
+GT4,BMW M4 GT4,2018,-10 kg,0 kg,kyalami
+GT4,Chevrolet Camaro GT4,2017,-19 kg,0 kg,kyalami
+GT4,Ginetta G55 GT4,2012,26 kg,0 kg,kyalami
+GT4,KTM X-Bow GT4,2016,-19 kg,0 kg,kyalami
+GT4,McLaren 570S GT4,2016,-10 kg,0 kg,kyalami
+GT4,Mercedes AMG GT4,2016,8 kg,0 kg,kyalami
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,8 kg,0 kg,kyalami
+GT4,Alpine A110 GT4,2018,26 kg,0 kg,laguna_seca
+GT4,Aston Martin Vantage GT4,2018,-2 kg,0 kg,laguna_seca
+GT4,Audi R8 LMS GT4,2018,-2 kg,0 kg,laguna_seca
+GT4,BMW M4 GT4,2018,-18 kg,0 kg,laguna_seca
+GT4,Chevrolet Camaro GT4,2017,-13 kg,0 kg,laguna_seca
+GT4,Ginetta G55 GT4,2012,-2 kg,0 kg,laguna_seca
+GT4,KTM X-Bow GT4,2016,-2 kg,0 kg,laguna_seca
+GT4,McLaren 570S GT4,2016,-7 kg,0 kg,laguna_seca
+GT4,Mercedes AMG GT4,2016,15 kg,0 kg,laguna_seca
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,4 kg,0 kg,laguna_seca
+GT4,Alpine A110 GT4,2018,21 kg,0 kg,misano
+GT4,Aston Martin Vantage GT4,2018,-8 kg,0 kg,misano
+GT4,Audi R8 LMS GT4,2018,-18 kg,0 kg,misano
+GT4,BMW M4 GT4,2018,-13 kg,0 kg,misano
+GT4,Chevrolet Camaro GT4,2017,-13 kg,0 kg,misano
+GT4,Ginetta G55 GT4,2012,31 kg,0 kg,misano
+GT4,KTM X-Bow GT4,2016,-3 kg,0 kg,misano
+GT4,McLaren 570S GT4,2016,-13 kg,0 kg,misano
+GT4,Mercedes AMG GT4,2016,16 kg,0 kg,misano
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,1 kg,0 kg,misano
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,mount_panorama
+GT4,Aston Martin Vantage GT4,2018,-32 kg,0 kg,mount_panorama
+GT4,Audi R8 LMS GT4,2018,-9 kg,0 kg,mount_panorama
+GT4,BMW M4 GT4,2018,-20 kg,0 kg,mount_panorama
+GT4,Chevrolet Camaro GT4,2017,-35 kg,0 kg,mount_panorama
+GT4,Ginetta G55 GT4,2012,-13 kg,0 kg,mount_panorama
+GT4,KTM X-Bow GT4,2016,14 kg,0 kg,mount_panorama
+GT4,McLaren 570S GT4,2016,-24 kg,0 kg,mount_panorama
+GT4,Mercedes AMG GT4,2016,40 kg,0 kg,mount_panorama
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,-13 kg,0 kg,mount_panorama
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,nurburgring
+GT4,Aston Martin Vantage GT4,2018,-12 kg,0 kg,nurburgring
+GT4,Audi R8 LMS GT4,2018,-8 kg,0 kg,nurburgring
+GT4,BMW M4 GT4,2018,-40 kg,0 kg,nurburgring
+GT4,Chevrolet Camaro GT4,2017,-28 kg,0 kg,nurburgring
+GT4,Ginetta G55 GT4,2012,12 kg,0 kg,nurburgring
+GT4,KTM X-Bow GT4,2016,-8 kg,0 kg,nurburgring
+GT4,McLaren 570S GT4,2016,-4 kg,0 kg,nurburgring
+GT4,Mercedes AMG GT4,2016,0 kg,0 kg,nurburgring
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,12 kg,0 kg,nurburgring
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,oulton_park
+GT4,Aston Martin Vantage GT4,2018,-40 kg,0 kg,oulton_park
+GT4,Audi R8 LMS GT4,2018,6 kg,0 kg,oulton_park
+GT4,BMW M4 GT4,2018,-40 kg,0 kg,oulton_park
+GT4,Chevrolet Camaro GT4,2017,-38 kg,0 kg,oulton_park
+GT4,Ginetta G55 GT4,2012,-4 kg,0 kg,oulton_park
+GT4,KTM X-Bow GT4,2016,-19 kg,0 kg,oulton_park
+GT4,McLaren 570S GT4,2016,6 kg,0 kg,oulton_park
+GT4,Mercedes AMG GT4,2016,-9 kg,0 kg,oulton_park
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,-4 kg,0 kg,oulton_park
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,silverstone
+GT4,Aston Martin Vantage GT4,2018,-14 kg,0 kg,silverstone
+GT4,Audi R8 LMS GT4,2018,-10 kg,0 kg,silverstone
+GT4,BMW M4 GT4,2018,-33 kg,0 kg,silverstone
+GT4,Chevrolet Camaro GT4,2017,-40 kg,0 kg,silverstone
+GT4,Ginetta G55 GT4,2012,-18 kg,0 kg,silverstone
+GT4,KTM X-Bow GT4,2016,-14 kg,0 kg,silverstone
+GT4,McLaren 570S GT4,2016,9 kg,0 kg,silverstone
+GT4,Mercedes AMG GT4,2016,-2 kg,0 kg,silverstone
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,9 kg,0 kg,silverstone
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,snetterton
+GT4,Aston Martin Vantage GT4,2018,-20 kg,0 kg,snetterton
+GT4,Audi R8 LMS GT4,2018,-25 kg,0 kg,snetterton
+GT4,BMW M4 GT4,2018,-37 kg,0 kg,snetterton
+GT4,Chevrolet Camaro GT4,2017,-40 kg,0 kg,snetterton
+GT4,Ginetta G55 GT4,2012,1 kg,0 kg,snetterton
+GT4,KTM X-Bow GT4,2016,-39 kg,0 kg,snetterton
+GT4,McLaren 570S GT4,2016,-20 kg,0 kg,snetterton
+GT4,Mercedes AMG GT4,2016,-20 kg,0 kg,snetterton
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,-3 kg,0 kg,snetterton
+GT4,Alpine A110 GT4,2018,9 kg,0 kg,suzuka
+GT4,Aston Martin Vantage GT4,2018,-14 kg,0 kg,suzuka
+GT4,Audi R8 LMS GT4,2018,-6 kg,0 kg,suzuka
+GT4,BMW M4 GT4,2018,-37 kg,0 kg,suzuka
+GT4,Chevrolet Camaro GT4,2017,-21 kg,0 kg,suzuka
+GT4,Ginetta G55 GT4,2012,2 kg,0 kg,suzuka
+GT4,KTM X-Bow GT4,2016,13 kg,0 kg,suzuka
+GT4,McLaren 570S GT4,2016,13 kg,0 kg,suzuka
+GT4,Mercedes AMG GT4,2016,13 kg,0 kg,suzuka
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,28 kg,0 kg,suzuka
+GT4,Alpine A110 GT4,2018,40 kg,0 kg,watkins_glen
+GT4,Aston Martin Vantage GT4,2018,-8 kg,0 kg,watkins_glen
+GT4,Audi R8 LMS GT4,2018,-12 kg,0 kg,watkins_glen
+GT4,BMW M4 GT4,2018,-30 kg,0 kg,watkins_glen
+GT4,Chevrolet Camaro GT4,2017,-40 kg,0 kg,watkins_glen
+GT4,Ginetta G55 GT4,2012,5 kg,0 kg,watkins_glen
+GT4,KTM X-Bow GT4,2016,-8 kg,0 kg,watkins_glen
+GT4,McLaren 570S GT4,2016,23 kg,0 kg,watkins_glen
+GT4,Mercedes AMG GT4,2016,1 kg,0 kg,watkins_glen
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,23 kg,0 kg,watkins_glen
+GT4,Maserati MC GT4,2016,8 kg,0 kg,watkins_glen
+GT4,Alpine A110 GT4,2018,11 kg,0 kg,zandvoort
+GT4,Aston Martin Vantage GT4,2018,-3 kg,0 kg,zandvoort
+GT4,Audi R8 LMS GT4,2018,1 kg,0 kg,zandvoort
+GT4,BMW M4 GT4,2018,-18 kg,0 kg,zandvoort
+GT4,Chevrolet Camaro GT4,2017,-13 kg,0 kg,zandvoort
+GT4,Ginetta G55 GT4,2012,1 kg,0 kg,zandvoort
+GT4,KTM X-Bow GT4,2016,-13 kg,0 kg,zandvoort
+GT4,McLaren 570S GT4,2016,1 kg,0 kg,zandvoort
+GT4,Mercedes AMG GT4,2016,11 kg,0 kg,zandvoort
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,21 kg,0 kg,zandvoort
+GT4,Alpine A110 GT4,2018,22 kg,0 kg,zolder
+GT4,Aston Martin Vantage GT4,2018,-4 kg,0 kg,zolder
+GT4,Audi R8 LMS GT4,2018,1 kg,0 kg,zolder
+GT4,BMW M4 GT4,2018,-15 kg,0 kg,zolder
+GT4,Chevrolet Camaro GT4,2017,-20 kg,0 kg,zolder
+GT4,Ginetta G55 GT4,2012,6 kg,0 kg,zolder
+GT4,KTM X-Bow GT4,2016,-15 kg,0 kg,zolder
+GT4,McLaren 570S GT4,2016,11 kg,0 kg,zolder
+GT4,Mercedes AMG GT4,2016,11 kg,0 kg,zolder
+GT4,Porsche 718 Cayman GT4 Clubsport,2019,1 kg,0 kg,zolder
