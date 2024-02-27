@@ -4,9 +4,14 @@ LFM (Low Fuel Motorsport) run custom BoP data and render this on their BoP page.
 
 Usage:
 ```bash
-lfm-bopper <path/to/your_bop_file.csv>
+lfm-bopper --in=<path/to/your_bop_file.csv>
 ```
 
-Both GT3 and GT4 cars are handled.
+Optionally, specify an output file (`bop.json` by default):
+```bash
+lfm-bopper --in=<path/to/your_bop_file.csv> --out=<path/to/your/bop.json>
+```
+
+Both GT3 and GT4 cars are currently handled.
 
 `build` directory includes both Linux and Windows (AMD64) binaries.

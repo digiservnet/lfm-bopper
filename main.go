@@ -3,11 +3,15 @@ package main
 import (
     "encoding/csv"
     "encoding/json"
+    "flag"
     "fmt"
     "log"
     "os"
     "strconv"
     "strings"
+
+    "golang.org/x/text/encoding/unicode"
+    "golang.org/x/text/transform"
 )
 
 type BopRecord struct {
@@ -169,17 +173,20 @@ func carModelFromName(name string, year string) int {
 func main() {
     appName := os.Args[0]
 
-    if len(os.Args[1:]) < 1 {
+    bopCsvFile := flag.String("in", "", "Input CSV file.")
+    bopJsonFile := flag.String("out", "bop.json", "Output JSON file.")
+
+    flag.Parse()
+
+    if *bopCsvFile == "" {
         fmt.Println("Please provide a BoP CSV file.")
         fmt.Println("")
-        fmt.Println("Usage: " + appName + " <csv_file>")
+        fmt.Println("Usage: " + appName + " --in=<csv_file> [--out=<json_file>]")
         os.Exit(1)
     }
 
-    bopCsvFile := os.Args[1]
-
     // Open CSV file
-    file, err := os.Open(bopCsvFile)
+    file, err := os.Open(*bopCsvFile)
 
     if err != nil {
         log.Fatal(err)
@@ -209,5 +216,12 @@ func main() {
         log.Fatal(err)
     }
 
-    fmt.Println(string(jsonData))
+    // Write JSON data as UTF-16LE+BOM file
+    bopFile, _ := os.Create(*bopJsonFile)
+    transformer := transform.NewWriter(
+        bopFile,
+        unicode.UTF16(unicode.LittleEndian, unicode.UseBOM).NewEncoder(),
+    )
+
+    transformer.Write(jsonData)
 }
